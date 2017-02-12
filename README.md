@@ -34,3 +34,4 @@ Breadboard and wires<br>
 * [Ok, let's see if we can make it work manually.](/docs/img/breadboard.jpg) (this one line entry took us hours to get right)
   * [Yup, that works.](https://youtu.be/JC7FB6oPfiM)
 * Right, tidy it up.
+* 🎶[Done](https://jidr.github.io/sturdy-disco/)
